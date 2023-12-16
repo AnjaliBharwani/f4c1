@@ -1,6 +1,7 @@
 import React from "react";
 import Form from "./Components/Form";
-// import index.css from "./Components/index.css"
+// import style from "./Components/index.css";
+import '../src/style.css'
 
 const App = () => {
 
